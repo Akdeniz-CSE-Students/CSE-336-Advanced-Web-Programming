@@ -1,0 +1,7 @@
+- **AI Engineer & MCP Course**
+  - [Week 1](AI Engineer Agentic Track The Complete Agent & MCP Course/Week 1/README.md)
+  - [Week 2](AI Engineer Agentic Track The Complete Agent & MCP Course/Week 2/README.md)
+  - [Week 3](AI Engineer Agentic Track The Complete Agent & MCP Course/Week 3/README.md)
+  - [Week 4](AI Engineer Agentic Track The Complete Agent & MCP Course/Week 4/README.md)
+  - [Week 5](AI Engineer Agentic Track The Complete Agent & MCP Course/Week 5/README.md)
+  - [Week 6](AI Engineer Agentic Track The Complete Agent & MCP Course/Week 6/README.md)
