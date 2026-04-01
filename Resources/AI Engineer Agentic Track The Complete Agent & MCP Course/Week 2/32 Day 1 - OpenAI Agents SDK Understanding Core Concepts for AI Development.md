@@ -1,4 +1,3 @@
-```text
 📹 VIDEO TOPIC: OpenAI Agents SDK Wrap-Up & Course Syllabus Overview
 🕐 COVERAGE: Conclusion of Week 2, Day 1 (OpenAI Agents SDK Concepts), preview of the SDR agent project, and a comprehensive outline of the complete AI Engineering Agentic Track curriculum.
 
@@ -67,4 +66,3 @@
 1. Course Roadmap — Week 2: OpenAI Agents SDK (Tools vs. Agents & Guardrails)
 2. Course Roadmap — Week 6 & MCP (Model Context Protocol Architecture)
 3. The SDR (Sales Development Representative) Agent Project
-```

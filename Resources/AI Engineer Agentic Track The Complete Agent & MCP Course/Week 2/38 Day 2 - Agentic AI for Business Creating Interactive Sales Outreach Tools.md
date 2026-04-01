@@ -1,4 +1,3 @@
-```
 📹 VIDEO TOPIC: OpenAI Agents SDK Project Conclusion & Next Steps
 🕐 COVERAGE: Project Wrap-up, Community Sharing Practices, and Introduction to Upcoming Topics (Guardrails, Tools, and Agents)
 
@@ -35,4 +34,3 @@
 ## ⭐ MUST-KNOW LIST (Exam-Critical Concepts)
 1. Tools and Agents Relationship
 2. Guardrails
-```
