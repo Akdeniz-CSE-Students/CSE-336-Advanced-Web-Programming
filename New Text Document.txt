@@ -1,0 +1,11 @@
+I expect attendance in this class. Please be prepared to show up so together we can learn the cutting edge technologies.
+
+The syllabus
+We will follow a udemy course. Master AI Agents in 30 days: Build 8 real-world projects with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP.
+ 
+By Ed Donner
+ 
+Likely you will choose a project of yours and follow through this concepts and adept to your site. 
+ 
+Grading will be based on your effort, creativity and quality of work.  I will be following your progress throughout the semester within the class hours. For some reason, you may not show up, then give me heads up by message in teams. 
+ 
